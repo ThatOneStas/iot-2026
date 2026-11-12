@@ -38,3 +38,5 @@ try:
     print(meanVsMedian([100, 2, 3, 4, 5, 6])) # will not be executed due to upper exception
 except Exception as e:
     print(e)
+
+# new comment
